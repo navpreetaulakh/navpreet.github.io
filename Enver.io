@@ -37,7 +37,6 @@ pg">
 <tr>
 <td>A>/td>
 <td>Physical Education 11</td
-
 <td> 8:30-9:50</td>
 </tr>
 <tr>
