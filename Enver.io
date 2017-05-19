@@ -11,7 +11,7 @@ background -color: black;
 color: white;
 }
 hi{
-font-famaily: sans-serif;
+font-family: sans-serif;
 text-align: centre;
 }
 img {
